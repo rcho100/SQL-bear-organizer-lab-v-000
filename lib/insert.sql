@@ -1,11 +1,11 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 5, "Male", "Brown", "Calm", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 3, "Male", "Black", "Energetic", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 2, "Female", "Brown", "Curious", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 7, "Male","Black", "Agressive", 0);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 4, "Female", "Black", "Calm", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 6, "Male", "Brown", "Lazy", 0);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 3, "Female", "Brown", "Calm", 1);
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 4, "Male", "Black", "Agressive", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 5, "Male", "Brown", "calm", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 3, "Male", "Black", "energetic", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 2, "Female", "Brown", "curious", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 7, "Male","Black", "agressive", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 4, "Female", "Black", "calm", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 6, "Male", "Brown", "lazy", 0);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 3, "Female", "Brown", "calm", 1);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 4, "Male", "Black", "agressive", 0);
 
 -- INSERT INTO bears VALUES (1, "Mr. Chocolate", 20, "M", "dark brown", "calm", 1);
 -- INSERT INTO bears VALUES (2, "Rowdy", 10, "M", "black", "intense", 1);
